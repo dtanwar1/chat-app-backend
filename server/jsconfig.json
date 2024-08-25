@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "rootDir": "src/",
+      "target": "ES6",
+      "checkJs": true
+    },
+    "include": [
+        "./src/"
+    ]
+  }
